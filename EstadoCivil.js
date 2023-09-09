@@ -10,7 +10,8 @@ switch (estadoCivil) {
         alert(nombre + " esta casad@");
         break;
     case 3:
-        alert(nombre + " esta divorciad@");
+        
+        console.log(nombre + " esta divorciad@");
         break;
     case 4:
         alert(nombre + " esta viud@");
